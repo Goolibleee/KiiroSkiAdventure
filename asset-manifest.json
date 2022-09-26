@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kiiro/static/css/main.9ca4f9c0.chunk.css",
+    "main.js": "/kiiro/static/js/main.a8b15e30.chunk.js",
+    "main.js.map": "/kiiro/static/js/main.a8b15e30.chunk.js.map",
+    "runtime-main.js": "/kiiro/static/js/runtime-main.6f6e64f5.js",
+    "runtime-main.js.map": "/kiiro/static/js/runtime-main.6f6e64f5.js.map",
+    "static/js/2.4e3b8f21.chunk.js": "/kiiro/static/js/2.4e3b8f21.chunk.js",
+    "static/js/2.4e3b8f21.chunk.js.map": "/kiiro/static/js/2.4e3b8f21.chunk.js.map",
+    "static/js/3.ec5984be.chunk.js": "/kiiro/static/js/3.ec5984be.chunk.js",
+    "static/js/3.ec5984be.chunk.js.map": "/kiiro/static/js/3.ec5984be.chunk.js.map",
+    "index.html": "/kiiro/index.html",
+    "static/css/main.9ca4f9c0.chunk.css.map": "/kiiro/static/css/main.9ca4f9c0.chunk.css.map",
+    "static/js/2.4e3b8f21.chunk.js.LICENSE.txt": "/kiiro/static/js/2.4e3b8f21.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kiiro/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f6e64f5.js",
+    "static/js/2.4e3b8f21.chunk.js",
+    "static/css/main.9ca4f9c0.chunk.css",
+    "static/js/main.a8b15e30.chunk.js"
+  ]
+}
